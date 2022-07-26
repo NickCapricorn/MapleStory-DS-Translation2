@@ -16,7 +16,7 @@
 4) Play game and when text appears that you want to translate, find the proper .txt file for the line of text and edit.
 - Easiest method I found was to use **Visual Code Studio** or **Notepad++** they both have an option to **Search for text through multiple files**. 
 - If multiple files show up flagging as the text being in them, make sure the text is identical. If they are, change them both. For whatever reason sometimes this occurs. (I assume it has something to do with multiple merging story paths).
-5) When looking at the current textbox displaying in game, try keeping the line count and character length in mind. When adding in/changing dialogue <\n> will cause a line break in game. 
+5) When looking at the current textbox displaying in game, try keeping the line count and character length in mind. When adding in/changing dialogue **[\n]** will cause a line break in game. 
 - You have a limit of what the text box looks like in game to add text, there is no way to add more text boxes to any person's dialogue so you have to make it fit.
 - This section will take a bit of trial and error. How I got used to it was having a save state right before the dialogue, change it import it and repack and load it up and see how it looks. Eventually you'll get to the point where you won't have many issues.
 - Having save states everywhere is good to do so you can easily get back to where you were and make sure it displays correctly with no screen wrapping or cutting off characters.
