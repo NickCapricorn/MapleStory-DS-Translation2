@@ -9,6 +9,7 @@
 
 ### Process
 1) Unpack MapleStoryDS (Red Snail 0.4).nds / MapleStoryDS (Korea).nds / MapleStoryDS (Japan).nds / MapleStoryDS (ChineseFanTranslation).nds / MapleStoryDS (Chinese_ENG).nds.
+- The RedSnail 0.4 & Chiense_EN translations both have all the menu/items/skills/cards fully translated so it is easier to use those unless you know JP/KR/CN.
 2) Load All Content with **MapleTrans1.1** 
 - MapleTrans will act as if it's crashing and not responding when you start loading the data, just let it sit for a few mins and it'll start.
 3) Export text script with **MapleTrans1.1**.
