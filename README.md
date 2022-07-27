@@ -3,9 +3,9 @@
 ## Getting Started
 
 ### Tools Needed 
-1) **LazyDS** - Used to unpack and repack the NDS game contents.
-2a) **MapleTrans 1.0** - Used to import and export the .txt script files from Korean base roms/translations. (Red Snail 0.4)
-2b) **MapleTrans 1.1** - Used to import and export the .txt script files from Japanese base roms/translations.
+1) **LazyDS** - Used to unpack and repack the NDS game contents.</br>
+2) - **MapleTrans 1.0** - Used to import and export the .txt script files from Korean base roms/translations. (Red Snail 0.4)
+   - **MapleTrans 1.1** - Used to import and export the .txt script files from Japanese base roms/translations.
 3) Any NDS emulator. **MelonDS**, **DeSmuME**, **RetroArch** or **RALibRetro**.
 
 ### Process
