@@ -41,7 +41,7 @@
 - Between the three translations and seeing what's going on in game, you can easily piece stuff together to see what's going on.
 - Save changes, import text files back in and repack
 - Launch game, test if text is within the box and nothing cuts off
-- Upload to github and replace Korean text lines if everything in game was working and translation seemed fine.
+- Upload only the lines altered to github and replace Korean text lines if everything in game was working and translation seemed fine.
 
 ### Random Info
 - Korean text files are uploaded to this github repo which makes it easier to know how much translation is left or what was missed.
