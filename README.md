@@ -32,6 +32,14 @@
 10) Going back in to translate? No need to re-unpack or re-export text. Just keep editing in your files and import & pack again once you make more changes.
 - You could grab all the content off github from time to time if you want to keep your files somewhat up to date with everyone elses changes as well.
 
+### Imprtant Word Highlighting
+- [\n] used for linebreaks, make sure not to space the words out for these example: "Hello Adventurer, Welcome[\n] to the World of MapleStory.[\n]My name is Minerva,[\n]"
+- <NameHere> will highlight names in Green. Normally used when characters use another characters name.
+- \[name:S_PC\] will reference your character name
+- text inside "『 』" will be highlighted. Normally used when hints/keywords/town names/important notes are displayed.
+
+If I find more I'll add them here.
+
 ### How I've been doing it
 
 - Unpacked & exported text scripts from RedSnail 0.4, (Korea) & (Japan)
