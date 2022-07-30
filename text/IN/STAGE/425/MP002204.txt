@@ -2,7 +2,7 @@ That's quite the distance.[\n]I might reach with a 『Flash Jump』.
 『Jump again during a jump』[\n]to use the thief exclusive[\n]technique, the 『Flash Jump』.
 It's been a while, I can't do it well.[\n]In short, 『Jump（\[B\]） to get in the air[\n]then jump （\[B\]） again』, wasn't it?
 Alright, that should work fine.
-Crap, failed again.[\n]In short, 『Jump（\[B\]） to get in the air[\n]then jump （\[B\]） again』, wasn't it?
+Crap, failed again.[\n]In short, 『jump（\[B\]） to get in the air[\n]then jump （\[B\]） again』, wasn't it?
 If I do a 『Flash Jump』 at[\n]the highest point during a jump,[\n]I might reach farther...
 I did it![\n]I mastered the 『Flash Jump』 completely![\n]Well, something like this is really easy.
 Eh?
