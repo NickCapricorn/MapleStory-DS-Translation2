@@ -1,2 +1,2 @@
 Press 『\[A\]』[\n]to attack an enemy in front.
-Press 『\[A\] repeatedly,[\n]for a continuous attack』.
+Press 『\[A\] repeatedly[\n]for a continuous attack』.
