@@ -1,2 +1,2 @@
-『Press the \[A\] button while facing the enemy to attack.』
-『Pressing \[A\] concecutively will trigger a combo attack.』
+Press 『\[A\]』[\n]to attack an enemy in front.
+Press 『\[A\] repeatedly,[\n]for a continuous attack』.
